@@ -1,0 +1,29 @@
+[
+    {
+     "id":"1",
+     "name":"Rwanda",
+     "parent_id":"0"
+    }, 
+    {
+     "id":"4",
+     "name":"Kigali City",
+     "parent_id":"1"
+    }, 
+    {
+     "id":"5",
+     "name":"Western",
+     "parent_id":"1"
+    }, 
+    {
+     "id":"6",
+     "name":"Eastern",
+     "parent_id":"1"
+    }, 
+    {
+     "id":"7",
+     "name":"Western",
+     "parent_id":"1"
+    }
+    
+   ]
+   
